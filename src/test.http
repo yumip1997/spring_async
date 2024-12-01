@@ -1,0 +1,5 @@
+### 동기 호출
+GET http://localhost:8080/syncMain
+
+### 비동기 호출
+GET http://localhost:8080/asyncMain
